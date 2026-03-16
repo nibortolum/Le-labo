@@ -3,6 +3,7 @@
 # Le Labo — lebiostatisticien.fr
 # ============================================================
 
+# Video https://youtu.be/73PyXsip3bE
 
 # Chargement des packages ----
 
